@@ -1,0 +1,5 @@
+flask
+flask-jwt-extended
+pymysql
+flask_cors
+flask_mysqldb
